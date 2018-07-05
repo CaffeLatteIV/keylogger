@@ -1,0 +1,10 @@
+c:\users\mango\source\repos\Keylogger\Keylogger\bin\Debug\Keylogger.exe.config
+c:\users\mango\source\repos\Keylogger\Keylogger\bin\Debug\Keylogger.exe
+c:\users\mango\source\repos\Keylogger\Keylogger\bin\Debug\Keylogger.pdb
+c:\users\mango\source\repos\Keylogger\Keylogger\obj\Debug\Keylogger.csprojAssemblyReference.cache
+c:\users\mango\source\repos\Keylogger\Keylogger\obj\Debug\Keylogger.Properties.Resources.resources
+c:\users\mango\source\repos\Keylogger\Keylogger\obj\Debug\Keylogger.csproj.GenerateResource.cache
+c:\users\mango\source\repos\Keylogger\Keylogger\obj\Debug\Keylogger.csproj.CoreCompileInputs.cache
+c:\users\mango\source\repos\Keylogger\Keylogger\obj\Debug\Keylogger.exe
+c:\users\mango\source\repos\Keylogger\Keylogger\obj\Debug\Keylogger.pdb
+c:\users\mango\source\repos\Keylogger\Keylogger\obj\Debug\Keylogger.keylogger.resources
